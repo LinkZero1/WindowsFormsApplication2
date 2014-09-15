@@ -19,7 +19,7 @@ namespace WindowsFormsApplication2
         private void button1_Click(object sender, EventArgs e)
         {
             if(textBox1.Text==""){
-                MessageBox.Show("debes ingresar algo");
+                MessageBox.Show("debes ingrsar algo");
             }
         }
     }
